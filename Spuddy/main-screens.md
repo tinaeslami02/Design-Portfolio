@@ -62,7 +62,7 @@ This document highlights the key screens from the Spuddy prototype, showing how 
 ---
 
 ## PDF Reference
-👉 [Download full screens (PDF)](Spuddy/spuddy-screens.pdf)
+👉 [Download full screens (PDF)](spuddy-screens.pdf)
 
 ---
 
