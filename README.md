@@ -10,4 +10,4 @@ Discover local racket sports (padel, tennis, ping pong, squash, badminton). Get 
 **Live artifacts**
 - [Figma Prototype](https://www.figma.com/design/3H29LNH2YcWBWwBxEUUuTu/Spuddy?node-id=477-1683&t=TREFoOY6hjG5CeAF-1)  
 
-👉 [Download full prototype screens (PDF)](Spuddy/spuddy_screens.pdf)
+👉 [Download full prototype screens (PDF)](Spuddy/spuddy-screens.pdf)
